@@ -1,0 +1,4 @@
+Radio Paradise|https://stream.radioparadise.com/aac-320
+NPO Radio2|https://icecast.omroep.nl/radio2-bb-mp3
+Fip Hi-Fi|https://st01.sslstream.dlf.de/dlf/01/128/mp3/stream.mp3
+GrooveSalad|https://icecast.omroep.nl/3fm-bb-mp3
